@@ -1,6 +1,11 @@
 ---
-title: posters
+title: presentations
 ---
+<p class="p1"><strong>Presentations:</strong></p>
+<p>May 2018 Stroke Collaborative Action Network (SCAN), Stanford, USA</p>
+<p>April 2018	Stanford Plastic Surgery Research Symposium, Stanford, USA</p>
+<p>April 2017	Stanford Plastic Surgery Research Symposium, Stanford, USA</p>
+
 <p class="p1"><strong>Posters:</strong></p>
 <p>June 2018	Stanford Anesthesia Research Dinner, Stanford USA</p>
 <p>May 2018	Stanford and UCSF Joint Anesthesia Research Conference, San Francisco, USA</p>
