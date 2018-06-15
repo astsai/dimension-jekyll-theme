@@ -1,5 +1,5 @@
 ---
-title: presentations
+title: other
 ---
 <p class="p1"><strong>Presentations:</strong></p>
 <p>May 2018 Stroke Collaborative Action Network (SCAN), Stanford, USA</p>
