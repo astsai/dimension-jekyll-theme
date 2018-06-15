@@ -1,5 +1,5 @@
 ---
-title: Posters
+title: posters
 ---
 <p class="p1"><strong>Posters:</strong></p>
 <p>June 2018	Stanford Anesthesia Research Dinner, Stanford USA</p>
