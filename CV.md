@@ -1,4 +1,4 @@
 ---
 title: CV
 ---
-<a href="/images/AT_CV_061418.pdf">Click Here!</a>
+<a href="astsai.github.io/assets/images/AT_CV_061418.pdf">Click Here!</a>
