@@ -1,5 +1,5 @@
 ---
-title: publications
+title: pubs
 image: pic02.jpg
 ---
 <p class="p1"><strong>In Review:</strong></p>
