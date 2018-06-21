@@ -4,7 +4,7 @@ image: pic02.jpg
 ---
 <p class="p1"><strong>Accepted:</strong></p>
 
-Multiomics Modeling of the Immunome, Transcriptome, Microbiome, Proteome, and Metabolome Adaptations During Human Pregnancy. MS Ghaemi, DB DiGiulio, K Contrepois, B Callahan, TTM Ngo, BA Lee, B Lehallier, D Mcilwain, Y Rosenberg-Hasson, RJ Wong, C Quaintance, A Culos, A Tanada, <b>A Tsai</b>, D Gaudilliere, E Ganio, X Han, K Ando, L McNeil, R Okada, M Tingle, P Wise, I Maric, M Sirota, T Wyss-Coray, VD Winn, ML Druzin, R Gibbs, GL Darmstadt, DB Lewis, VP Nia, B Agard, H Maecker, R Tibshirani, G Nolan, MP Snyder, DA Relman, SR Quake, GM Shaw, DK Stevenson, MS Angst, B Gaudilliere, N Aghaeepour. Bioinformatics. 2018.
+<p> Multiomics Modeling of the Immunome, Transcriptome, Microbiome, Proteome, and Metabolome Adaptations During Human Pregnancy. MS Ghaemi, DB DiGiulio, K Contrepois, B Callahan, TTM Ngo, BA Lee, B Lehallier, D Mcilwain, Y Rosenberg-Hasson, RJ Wong, C Quaintance, A Culos, A Tanada, <b>A Tsai</b>, D Gaudilliere, E Ganio, X Han, K Ando, L McNeil, R Okada, M Tingle, P Wise, I Maric, M Sirota, T Wyss-Coray, VD Winn, ML Druzin, R Gibbs, GL Darmstadt, DB Lewis, VP Nia, B Agard, H Maecker, R Tibshirani, G Nolan, MP Snyder, DA Relman, SR Quake, GM Shaw, DK Stevenson, MS Angst, B Gaudilliere, N Aghaeepour. Bioinformatics. 2018. </p>
 
 <p class="p1"><strong>Published:</strong></p>
 
