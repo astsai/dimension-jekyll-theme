@@ -9,7 +9,10 @@ Currently, I am studying medicine at the University of California, Davis. My ant
 
 <a href="https://scholar.google.com/citations?user=1jxR9JIAAAAJ&hl=en">Google Scholar</a>
 
+<a href="https://www.researchgate.net/profile/Amy_Tsai6">Research Gate</a>
+
 <a href="https://twitter.com/amytsaii?lang=en">Twitter</a>
 
 <a href="https://www.instagram.com/amiitsaii/">Instagram</a>
+
  
