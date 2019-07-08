@@ -2,12 +2,12 @@
 title: pubs
 image: pic02.jpg
 ---
-<p class="p1"><strong>Accepted:</strong></p>
-<p> Systemic immunological consequences of chronic periodontitis. Gaudilliere DK*, Culos A*, Djebali K*, <b>Tsai AS*</b>, Ganio EA, Chio WM, Maghaireh A, Choisy B, Ando K, Baca Q, Bertrand B, Einhaus JF, Hedou JJ, Fallahzadeh R, Ghaemi MS, Han X, Okada R, Stanley N, Tanada A, Tingle M, Alpagot T, Helms JA, Angst MS, Aghaeepour N, Gaudilliere B.  Journal of Dental Research. 2019. *Co-first authors </p>
+<p class="p1"><strong>Published:</strong></p>
+
+<p> <a href="https://journals.sagepub.com/doi/abs/10.1177/0022034519857714">Systemic immunological consequences of chronic periodontitis.</a> Gaudilliere DK*, Culos A*, Djebali K*, <b>Tsai AS*</b>, Ganio EA, Chio WM, Maghaireh A, Choisy B, Ando K, Baca Q, Bertrand B, Einhaus JF, Hedou JJ, Fallahzadeh R, Ghaemi MS, Han X, Okada R, Stanley N, Tanada A, Tingle M, Alpagot T, Helms JA, Angst MS, Aghaeepour N, Gaudilliere B.  Journal of Dental Research. 2019. *Co-first authors </p>
 
 <p> <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2019.01305/abstract">Differential dynamics of the maternal immune system in healthy pregnancy and preeclampsia.</a> Han X, Ghaemi MS, Ando K, Peterson L, Ganio EA, <b>Tsai AS</b>, Gaudilliere DK, Einhaus J, Bertrand B, Stanley N, Culos A, Tanada A, Tsai ES, Rallahzadeh R, Wong RJ, Judy EA, Winn VD, Maurice DL, Blumenfeld YJ, Hlatky MA, Quaintance CC, Gibbs RS, Carvalho B, Shaw GM, Stevenson DK, Angst MS, Aghaeepour, Gaudilliere B.  Frontiers in Immunology. 2019.</p>
 
-<p class="p1"><strong>Published:</strong></p>
 
 <p> <a href="https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awz022/5373058">A year-long immune profile of the systemic response in acute stroke survivors.</a> <b>Tsai AS</b>, Berry K, Beneyto MM, Gaudilliere D, Ganio EA, Culos A, Ghaemi MS, Choisy B, Djebali K, Einhaus EF, Bertrand B, Tanada A, Stanley N, Fallahzadeh R, Baca Q, Quach LN, Osborn E, Drag L, Lansberg MG, Angst MS, Gaudilliere B, Buckwalter MS, Aghaeepour N. Brain. 2019. <p>
 
