@@ -15,4 +15,12 @@ Currently, I am studying medicine at the University of California, Davis. My ant
 
 <a href="https://www.instagram.com/amiitsaii/">Instagram</a>
 
+<b> Awards and Honors </b></br> 
+Exceptional Student Award | ISAC 34th Annual Cytometry meeting, Vancouver, Canada, 2019 </br> 
+
+<b> Hobbies </b> </br>
+ Travel: 🇨🇿🇩🇪🇦🇹🇨🇦🇨🇳🇫🇮🇬🇧🇫🇷🇹🇼🇸🇪 </br>
+ Coffee snobbing </br>
+ Painting </br>
+
  
