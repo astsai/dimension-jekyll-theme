@@ -13,7 +13,7 @@ title: other
 <p class="p1"><strong>Posters:</strong></p>
 <p>June 2019	42nd Annual Conference on Shock, Coronada, California, USA</p>
 <p>May 2019	Association of University Anesthesiologists (AUA); International Anesthesia Research Society (IARS), Montreal, Canada</p>
-<p>May 2018	Stanford Anesthesia Research Dinner, Stanford, California, USA</p>
+<p>May 2019	Stanford Anesthesia Research Dinner, Stanford, California, USA</p>
 <p>May 2019	Human Immune Monitoring Technology and Bioinformatics Conference, Stanford, USA</p>
 <p>June 2018	Stanford Anesthesia Research Dinner, Stanford USA</p>
 <p>May 2018	Stanford and UCSF Joint Anesthesia Research Conference, San Francisco, USA</p>
