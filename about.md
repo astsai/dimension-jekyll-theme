@@ -18,7 +18,7 @@ Currently, I am studying medicine at the University of California, Davis. My ant
 <br> <b> Awards and Honors </b> 
 <br>Exceptional Student Award | ISAC 34th Annual Cytometry meeting, Vancouver, Canada, 2019 
 
-<br><b> Hobbies
+<br><b> Hobbies </b>
  <br>Travel: 🇨🇿🇩🇪🇦🇹🇨🇦🇨🇳🇫🇮🇬🇧🇫🇷🇹🇼🇸🇪 
  <br>Coffee snobbing
  <br>Painting
