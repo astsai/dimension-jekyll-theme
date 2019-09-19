@@ -2,7 +2,7 @@
 title: other
 ---
 <p class="p1"><strong>Presentations:</strong></p>
-<p>June 2019	International Society for the Advancement of Cytometry (ISAC) 34th International Congress (CYTO), Vancouver, Canada</p>
+<p>June 2019	<a href="http://cytoconference.org/2019/Program-and-Abstracts/Program-Information/CYTO-Program-Book-final-draft-v4.aspx">International Society for the Advancement of Cytometry (ISAC) 34th International Congress (CYTO), Vancouver, Canada</a></p>
 <p>June 2019	42nd Annual Conference on Shock, Coronada, California, USA</p>
 <p>May 2018	Stroke Collaborative Action Network (SCAN), Stanford, California, USA</p>
 <p>April 2018	Stanford Plastic Surgery Research Symposium, Stanford, California, USA</p>
