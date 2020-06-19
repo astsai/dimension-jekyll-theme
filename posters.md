@@ -11,6 +11,7 @@ title: other
 
 
 <p class="p1"><strong>Posters:</strong></p>
+<p>March 2020	Medical Student Research Day, Sacramento, California, USA</p>
 <p>June 2019	42nd Annual Conference on Shock, Coronada, California, USA</p>
 <p>May 2019	Association of University Anesthesiologists (AUA); International Anesthesia Research Society (IARS), Montreal, Canada</p>
 <p>May 2019	Stanford Anesthesia Research Dinner, Stanford, California, USA</p>
