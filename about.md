@@ -8,7 +8,7 @@ Hi! I am studying immunology in clinical contexts such as surgery (primary hip a
 High dimensional data requires advanced biocomputational power. We work closely with Dr. Nima Aghaeepous's group to advance the two fields in parallel. 
 Here is a graphic from <a href="https://stanleyn.github.io/">Dr. Natalie Stanley</a>'s newest algorithm, <b>VoPo</b>, which has the ability to agnostically cluster immune cells and identify novel populations of interest: 
 
-<img src="/assets/images/VoPo-01.png" class="img-responsive" alt=""> 
+<img src="/assets/images/VoPo_Dark-01.png" class="img-fluid" alt="Responsive image" > 
 
 Currently, I am studying medicine at the University of California, Davis. My anticipated graduation is 2022. 
 
