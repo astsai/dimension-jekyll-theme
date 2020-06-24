@@ -18,6 +18,8 @@ Currently, I am studying medicine at the University of California, Davis School 
 
 <a href="https://twitter.com/amytsaii?lang=en">Twitter</a>
 
+{% twitter https://twitter.com/amytsaii?lang=en maxwidth=500 limit=5 %}
+
 <a href="https://www.instagram.com/amiitsaii/">Instagram</a>
 
 <br> <b> Awards and Honors </b> 
