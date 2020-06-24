@@ -25,8 +25,7 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/amytsaii
 
-plugins:
-  - jekyll-gist
+plugins: ['jekyll-twitter-plugin']
   
 # Build settings
 markdown: kramdown
