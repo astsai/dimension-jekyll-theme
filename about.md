@@ -17,9 +17,6 @@ Currently, I am studying medicine at the University of California, Davis School 
 <a href="https://www.researchgate.net/profile/Amy_Tsai6">Research Gate</a>
 
 <a href="https://twitter.com/amytsaii?lang=en">Twitter</a>
-<div> <a class="twitter-timeline" href="https://twitter.com/amytsaii?ref_src=twsrc%5Etfw">Tweets by amytsaii</a> 
-         script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-   
 
 <a href="https://www.instagram.com/amiitsaii/">Instagram</a>
 
