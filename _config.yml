@@ -1,8 +1,7 @@
 # Site settings
 title: Amy Tsai
 email: astsai127@gmail.com
-description: Researcher at Stanford University
-MS3 at UC Davis School of Medicine
+description: Researcher at Stanford University</ br>MS3 at UC Davis School of Medicine
 baseurl: "/astsai.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Amy Tsai
