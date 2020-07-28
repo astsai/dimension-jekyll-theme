@@ -6,6 +6,8 @@ image: pic02.jpg
 
 <p><a href="https://www.nature.com/articles/s41467-020-17565-y">Preferential inhibition of adaptive immune system dynamics by glucocorticoids in patients after acute surgical trauma</a>. EA. Ganio, N Stanley, V Lindberg-Larsen, J Einhaus, <b>AS Tsai</b>, F Verdonk, A Culos, S Gahemi KK Rumer, IA Stelzer, D Gaudilliere, E Tsai, R Fallahzadeh, B Choisy, H Kehlet, N Aghaeepour, MS. Angst, B Gaudilliere. Nature Communications. 2020. </p>
 
+<p><a href="https://www.nature.com/articles/s41467-020-17569-8">VoPo Leverages Cellular Heterogeneity for Predictive Modeling of Single-Cell Data</a>. N Stanley, IA Stelzer, <b>AS Tsai</b>, R Fallahzadeh, EA Ganio, M Becker, T Phongpreecha, H Nassar, S Ghaemi, I Maric, A Culos, AL Chang, M Xenochristou, X Han, K Rumer, L Peterson, F Verdonk, D Gaudilliere, E Tsai, D Feyaerts, K Ando, RJ Wong, G Obermoser, GM Shaw, DK Stevenson, MS Angst, B Gaudilliere, N Aghaeepour. Nature Communications. 2020. </p>
+
 <p> <a href="https://doi.org/10.1007/s00281-019-00772-1">Multiomic immune clockworks of pregnancy.</a> Peterson LS, Stelzer IA, <b>Tsai AS</b>, Ghaemi MS, Han XY, Ando K, Winn WD , Martinez NR, Contrepois K, Moufarrej MN, Quake S, Relman DA, Snyder MP, Shaw GM, Stevenson DK, Wong RJ , Arck P, Angst MS, Aghaeepour N, Gaudilliere B. Seminars in Immunopathology. 2020.
 
 <p> <a href="https://journals.sagepub.com/doi/abs/10.1177/0022034519857714">Systemic immunological consequences of chronic periodontitis.</a> Gaudilliere DK*, Culos A*, Djebali K*, <b>Tsai AS*</b>, Ganio EA, Chio WM, Maghaireh A, Choisy B, Ando K, Baca Q, Bertrand B, Einhaus JF, Hedou JJ, Fallahzadeh R, Ghaemi MS, Han X, Okada R, Stanley N, Tanada A, Tingle M, Alpagot T, Helms JA, Angst MS, Aghaeepour N, Gaudilliere B.  Journal of Dental Research. 2019. *Co-first authors </p>
@@ -23,8 +25,6 @@ image: pic02.jpg
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0305197816300072">New genetic resources and a preliminary multi-locus assessment of species boundaries in the Batis capensis species complex (Passeriformes: Platysteridae)</a>. GOU Wogan, KA Feldheim, <b>AS Tsai</b>, AA Brown, J Kapelke, M Galinato, JN Tung, JM Bates, P Kaliba, G Voelker, RCK Bowie. Biochemical Systematics and Ecology. 2016.</p>
 
 <p class="p1"><strong>Accepted:</strong></p>
-
-<p>VoPo Leverages Cellular Heterogeneity for Predictive Modeling of Single-Cell Data. N Stanley, IA Stelzer, <b>AS Tsai</b>, R Fallahzadeh, EA Ganio, M Becker, T Phongpreecha, H Nassar, S Ghaemi, I Maric, A Culos, AL Chang, M Xenochristou, X Han, K Rumer, L Peterson, F Verdonk, D Gaudilliere, E Tsai, D Feyaerts, K Ando, RJ Wong, G Obermoser, GM Shaw, DK Stevenson, MS Angst, B Gaudilliere, N Aghaeepour. Nature Communications. 2020. </p>
 
 <p class="p1"><strong>Submitted:</strong></p>
 
