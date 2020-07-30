@@ -26,9 +26,9 @@ image: pic02.jpg
 
 <p class="p1"><strong>Accepted:</strong></p>
 
-<p class="p1"><strong>Submitted:</strong></p>
-
 <p>Integration of Mechanistic Immunological Knowledge into a Machine Learning Pipeline Increases Predictive Power. A Culos, <b>AS Tsai</b>, N Stanley, M Becker, MS Ghaemi, DR McIlwain, R Fallahzadeh, A Tanada, H Nassar, E Ganio, L Peterson, X Han, IA Stelzer, K Ando, D Gaudilliere, T Phongpreecha, I Maric, AL Chang, GM Shaw, DK Stevenson, S Bendall, KL Davis, W Fantl, GP Nolan, T Hastie, R Tibshirani, MS Angst, B Gaudilliere, N Aghaeepour. Nature Machine Intelligence. 2020. </p>
+
+<p class="p1"><strong>Submitted:</strong></p>
 
 <p>Integrated modeling of metabolome, proteome, and immunome trajectories predicts labor onset. IA Stelzer, MS Ghaemi, X Han, K Ando, J Hedou, K Contrepoix, L Peterson, D Feyaerts, ES Tsai, EA Ganio, DK Gaudilliere, <b>AS Tsai</b>, RJ Wong, CC Quaintance, B Carvalho, M Snyder, GM Shaw, DK Stevenson, MS Angst, N Aghaeepour, B Gaudilliere. Science Translational. 2020 </p>
 
